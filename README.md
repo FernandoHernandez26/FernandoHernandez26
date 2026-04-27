@@ -18,7 +18,6 @@ Eclipse · IntelliJ IDEA · Visual Studio Code · MySQL Workbench · Git · GitH
 
 ## 🚀 Proyectos destacados
 
-*(Cuando me digas cuáles son tus 2–3 proyectos favoritos, los pongo aquí con descripción y enlaces.)*
 
 - **Proyecto 1** — Descripción breve del proyecto.  
 - **Proyecto 2** — Descripción breve del proyecto.  
