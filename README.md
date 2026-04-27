@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Fernando
 
-<!--
-**FernandoHernandez26/FernandoHernandez26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Me interesa seguir capacitándome, asumir nuevos retos y crear soluciones funcionales.  
+Desarrollo proyectos en **Java**, **SQL** y **JavaScript**, y trabajo con tecnologías como **Eclipse**, **MySQL**, **Visual Studio Code**, **IntelliJ IDEA**, **HTML5** y **CSS**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes:**  
+Java · SQL · JavaScript · HTML5 · CSS  
+
+**Entornos y herramientas:**  
+Eclipse · IntelliJ IDEA · Visual Studio Code · MySQL Workbench · Git · GitHub  
+
+---
+
+## 🚀 Proyectos destacados
+
+*(Cuando me digas cuáles son tus 2–3 proyectos favoritos, los pongo aquí con descripción y enlaces.)*
+
+- **Proyecto 1** — Descripción breve del proyecto.  
+- **Proyecto 2** — Descripción breve del proyecto.  
+- **Proyecto 3** — Descripción breve del proyecto.
+
+---
+
+## 🎯 Áreas que me interesan
+
+- Desarrollo multiplataforma  
+- Bases de datos y modelado SQL  
+- Diseño de interfaces y experiencia de usuario  
+- Retos técnicos que me permitan aprender más  
+- Proyectos educativos o interactivos
+
+---
+
+## 📫 Contacto
+
+- **GitHub:** [FernandoHernandez26](https://github.com/FernandoHernandez26)
